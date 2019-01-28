@@ -1,0 +1,6 @@
+export FLASK_APP=Notice_Board
+
+export FLASK_ENV=development
+
+flask run
+flask init-db

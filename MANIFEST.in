@@ -1,0 +1,5 @@
+include Notice_board/schema.sql
+graft Notice_board/static
+graft Notice_board/templates
+global -exclude *.pyc
+
